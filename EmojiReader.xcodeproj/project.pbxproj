@@ -13,6 +13,7 @@
 		04A6B82B27AD984F002CEC81 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04A6B82927AD984F002CEC81 /* Main.storyboard */; };
 		04A6B82D27AD9851002CEC81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04A6B82C27AD9851002CEC81 /* Assets.xcassets */; };
 		04A6B83027AD9851002CEC81 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04A6B82E27AD9851002CEC81 /* LaunchScreen.storyboard */; };
+		04A6B83827AD9BDF002CEC81 /* EmojiTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A6B83727AD9BDF002CEC81 /* EmojiTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		04A6B82C27AD9851002CEC81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04A6B82F27AD9851002CEC81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04A6B83127AD9851002CEC81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04A6B83727AD9BDF002CEC81 /* EmojiTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				04A6B82327AD984F002CEC81 /* AppDelegate.swift */,
 				04A6B82527AD984F002CEC81 /* SceneDelegate.swift */,
 				04A6B82727AD984F002CEC81 /* ViewController.swift */,
+				04A6B83727AD9BDF002CEC81 /* EmojiTableViewController.swift */,
 				04A6B82927AD984F002CEC81 /* Main.storyboard */,
 				04A6B82C27AD9851002CEC81 /* Assets.xcassets */,
 				04A6B82E27AD9851002CEC81 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04A6B83827AD9BDF002CEC81 /* EmojiTableViewController.swift in Sources */,
 				04A6B82827AD984F002CEC81 /* ViewController.swift in Sources */,
 				04A6B82427AD984F002CEC81 /* AppDelegate.swift in Sources */,
 				04A6B82627AD984F002CEC81 /* SceneDelegate.swift in Sources */,
